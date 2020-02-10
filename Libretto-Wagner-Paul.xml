@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>LE VAISSEAU FANTÔME</title>
+            <author>Richard Wagner</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>wikisource</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p>pris sur wikipedia</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <castList>
+            <castItem>LE HOLLANDAIS MM.Bouvet.</castItem>
+            <castItem>DALAND, marin Norvégien Belhomme.</castItem>
+            <castItem>ÉRIK, chasseur Jérome.</castItem>
+            <castItem>LE PILOTE, de Daland Carbonne.</castItem>
+            <castItem>SENTA, fille de Daland Mlle Marcy.</castItem>
+            <castItem>MARIE, nourrice de Senta Mme Carré-Delorn.</castItem>
+         </castList>
+         <set>
+            <p>L'action se passe en Norvège, au bord de la mer.</p>
+         </set>
+      </front>
+      <body>
+         <div type="act" n="1">
+            <head>ACTE PREMIER</head>
+            <stage><p>Le Théâtre représente un rivage bordé de rochers à pic.—La mer occupe une
+                  grande partie de la scène.—La vue s'étend au loin sur les flots.—Temps
+                  sombre.—Violent ouragan.</p></stage>
+            <div type="scene" n="1">
+               <head>SCÈNE PREMIÈRE</head>
+               <stage><p>LES MATELOTS NORVÉGIENS, DALAND, LE PILOTE.</p></stage>
+               <stage><p>(Le navire de Daland vient de jeter l'ancre près du rivage. Les Matelots
+                     travaillent bruyamment à carguer les voiles, à lancer des câbles.Daland est à
+                     terre, il gravit un rocher et regarde autour de lui pour reconnaître la
+                     contrée.)</p></stage>
+               <sp>
+                  <speaker>LES MATELOTS NORVÉGIENS</speaker>
+                  <l n="1">Hiva! ho! hiva! ho!</l>
+                  <l n="2">Plus de doute. En ce jour, l'orage</l>
+                  <l n="3">Nous a poussés à sept milles du port.</l>
+                  <l n="4">Si près du but d'un long voyage,</l>
+                  <l n="5">Faut-il subir ce coup du sort?</l>
+                  <l n="6">Eh! capitaine! hé!...</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="7">Tout va-t-il bien à bord?</l>
+               </sp>
+               <sp>
+                  <speaker>LE PILOTE.</speaker>
+                  <l n="8">Ici le fond est bon, tout va bien, capitaine.</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="9">C'est bien Sandwik! La chose est trop certaine!</l>
+                  <l n="10">Malheur! J'allais revoir ce qui m'est cher</l>
+                  <l n="11">Senta, ma fille, et mon toit secourable,</l>
+                  <l n="12">Quand de ce gouffre il souffle un vent d'enfer,</l>
+                  <l n="13">Se fier au vent, c'est compter sur le diable!</l>
+                  <stage><p>(Allant à bord.)</p></stage>
+                  <l n="14">Mais à quoi bon?... Déjà l'air est moins lourd,</l>
+                  <l n="15">Pareil orage sera court.</l>
+                  <stage><p>(Aux Matelots.)</p></stage>
+                  <l n="16">Holà! vous, c'est assez veiller, reposez-vous,</l>
+                  <l n="17">Je n'ai plus peur.</l>
+                  <stage><p>(Les Matelots descendent dans la cale.—Au Timonier.)</p></stage>
+                  <l n="18">Toi, timonier, demeure.</l>
+                  <l n="19">Il faut veiller pour nous.</l>
+                  <l n="20">Tout est au mieux, mais veillons à toute heure.</l>
+               </sp>
+               <sp>
+                  <speaker>LE PILOTE.</speaker>
+                  <l n="21">Ne craignez rien,</l>
+                  <l n="22">Capitaine! Dormez bien.</l>
+                  <stage><p>(Daland rentre dans sa cabine.)</p></stage>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>SCÈNE II</head>
+               <sp>
+                  <speaker>LE PILOTE.</speaker>
+                  <stage><p>(Le Pilote est seul sur le pont. L'ouragan s'est un peu calmé et ne
+                        reprend plus que par intervalles. Au large les vagues s'élèvent énormes. Le
+                        Pilote fait encore une fois la ronde; puis il s'assied au gouvernail.
+                        Bientôt il sent venir le sommeil, il se secoue et chante.)</p></stage>
+                  <l n="23">Malgré vents et tempête,</l>
+                  <l n="24">Auprès des miens,</l>
+                  <l n="25">Ma belle, je reviens.</l>
+                  <l n="26">L'ouragan sur ma tête</l>
+                  <l n="27">En vain gronda,</l>
+                  <l n="28">Ma belle, me voilà.</l>
+                  <l n="29">Sans un bon vent du sud, jamais</l>
+                  <l n="30">À toi je ne reviendrais.</l>
+                  <l n="31">Ah! souffle! souffle encor, bon vent,</l>
+                  <l n="32">Ma belle en ce jour m'attend.</l>
+                  <l n="33">Ah! ah! la! la! ah!</l>
+                  <stage><p>(Une vague ébranle le navire. Le Pilote se lève vivement et regarde. Il
+                        s'assure qu'il n'y a pas de mal, se rassied et chante tandis que le sommeil
+                        le gagne par degrés.)</p></stage>
+                  <l n="34">Des confins de la terre,</l>
+                  <l n="35">À toi toujours</l>
+                  <l n="36">J'ai pensé, mes amours!</l>
+                  <l n="37">En bravant le tonnerre</l>
+                  <l n="38">Et flots et vent</l>
+                  <l n="39">Je t'apporte un présent.</l>
+                  <l n="40">Grâce au bon vent, je viens encor</l>
+                  <l n="41">Avec une chaîne d'or!</l>
+                  <l n="42">Bon vent! ah! souffle sans faiblir,</l>
+                  <l n="43">Ce don lui fera plaisir!</l>
+                  <l n="44">Ah! ah! la! la! ah!</l>
+                  <stage><p>(Il lutte contre la fatigue et finit par s'endormir. La tempête
+                        recommence. Le temps s'assombrit. Dans le lointain se montre le vaisseau
+                        fantôme avec ses voiles d'un rouge de sang et ses mâts noirs. Il s'approche
+                        avec rapidité du rivage à côté du navire norvégien. L'ancre tombe avec un
+                        bruit terrible. Le Pilote de Daland s'éveille en sursaut. Sans quitter sa
+                        place, il jette un coup d'œil sur le gouvernail, et, assuré que tout est
+                        bien, il murmure quelques mots de sa chanson.)</p></stage>
+                  <l n="45">Sans un bon vent du sud, jamais...</l>
+                  <stage><p>(Il se rendort.)</p></stage>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>SCÈNE III</head>
+               <stage><p>LE HOLLANDAIS, LE PILOTE, endormi.</p></stage>
+               <stage><p>(Sans le moindre bruit l'équipage fantastique du vaisseau fantôme cargue
+                     ses voiles. Le Hollandais descend à terre.)</p></stage>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="46">L'heure a sonné! Sept ans avec l'aurore</l>
+                  <l n="47">Sont écoulés! Le flot</l>
+                  <l n="48">Lassé me rejette aussitôt.</l>
+                  <l n="49">Ah! superbe Océan, bientôt</l>
+                  <l n="50">Tes flots me porteront encore.</l>
+                  <l n="51">Ta rage expire, et ma peine est sans fin!</l>
+                  <l n="52">Je cherche en vain</l>
+                  <l n="53">Sur cette terre</l>
+                  <l n="54">Celle en qui j'espère.</l>
+                  <l n="55">Mer, tu seras le témoin de mes maux</l>
+                  <l n="56">Jusqu'au moment où l'abîme en repos</l>
+                  <l n="57">Verra tarir enfin les flots.</l>
+                  <l n="58">Combien de fois, las de souffrir.</l>
+                  <l n="59">Je courus affronter l'orage!</l>
+                  <l n="60">Hélas! la mort sembla me fuir.</l>
+                  <l n="61">En vain ma rage</l>
+                  <l n="62">À maint écueil</l>
+                  <l n="63">Souvent demanda le naufrage.</l>
+                  <l n="64">Jamais ne s'ouvre mon cercueil!</l>
+                  <l n="65">Parfois j'ai bravé le pirate,</l>
+                  <l n="66">Dans les combats cherchant la mort.</l>
+                  <l n="67">«Viens! viens! que ta bravoure éclate;</l>
+                  <l n="68">L'argent ruisselle sur mon bord...»</l>
+                  <l n="69">Des mers j'ai vu l'enfant sauvage</l>
+                  <l n="70">En se signant au loin s'enfuir.</l>
+                  <l n="71">Combien de fois, voulant mourir,</l>
+                  <l n="72">J'ai défié les vents, l'orage!</l>
+                  <l n="73">Dans l'espérance d'un cercueil,</l>
+                  <l n="74">Souvent j'allai chercher l'écueil;</l>
+                  <l n="75">Mais ni la tombe ni la mort!</l>
+                  <l n="76">Tel est l'arrêt cruel du sort!</l>
+                  <l n="77">Ange du ciel, messager d'espérance,</l>
+                  <l n="78">Qui du salut m'as montré le chemin,</l>
+                  <l n="79">En m'annonçant un jour de délivrance,</l>
+                  <l n="80">T'es-tu raillé de mon cruel destin?</l>
+                  <l n="81">En vain j'espère,</l>
+                  <l n="82">Ô vœux superflus!</l>
+                  <l n="83">Non! non! sur terre</l>
+                  <l n="84">Un cœur fidèle... il n'en est plus!</l>
+                  <l n="85">Un seul espoir encor me reste,</l>
+                  <l n="86">Et cet espoir jamais ne ment.</l>
+                  <l n="87">Si long que soit ce sort funeste,</l>
+                  <l n="88">Le monde aura sa fin pourtant!</l>
+                  <l n="89">Ô jour céleste</l>
+                  <l n="90">Du jugement,</l>
+                  <l n="91">Quand dois-tu luire</l>
+                  <l n="92">Enfin pour moi?</l>
+                  <l n="93">Qu'il sonne, ce signal d'effroi</l>
+                  <l n="94">Qui doit tout perdre et tout détruire.</l>
+                  <l n="95">Lorsque seront levés les morts,</l>
+                  <l n="96">Enfin la paix m'attend alors.</l>
+                  <l n="97">Ô mondes, cessez votre cours!</l>
+                  <l n="98">À moi, néant, et pour toujours!</l>
+                  <stage><p>(Chœur sourd de l'équipage du Vaisseau Fantôme.)</p></stage>
+                  <l n="99">À nous, néant, et pour toujours!</l>
+                  <stage><p>(Le Hollandais se couche sur un rocher à l'avant-scène.)</p></stage>
+               </sp>
+            </div>
+            <div type="scene" n="4">
+               <head>SCÈNE IV</head>
+               <stage><p>LE HOLLANDAIS, DALAND, LE PILOTE.</p></stage>
+               <stage><p>(Daland sort de sa cabine; il vient sur le pont et aperçoit le vaisseau du
+                     Hollandais.)</p></stage>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="100">Eh! timonier! holà!</l>
+                  <l n="101">C'est bien! c'est bien!</l>
+                  <stage><p>(Continuant sa chanson.)</p></stage>
+                  <l n="102">«Ah! souffle, souffle encor, bon vent...»</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="103">Ne vois-tu rien?</l>
+                  <l n="104">Bien! l'on veille</l>
+                  <l n="105">À merveille!</l>
+                  <l n="106">Vois ce vaisseau! Depuis quand dors-tu là?</l>
+               </sp>
+               <sp>
+                  <speaker>LE PILOTE.</speaker>
+                  <l n="107">Au diable, aussi! Pardon, capitaine.</l>
+                  <stage><p>(Il prend à la hâte son porte-voix et hèle le vaisseau.)</p></stage>
+                  <l n="108">Holà!</l>
+                  <stage><p>(Long silence. On entend deux fois l'écho.)</p></stage>
+                  <l n="109">Holà! hé!</l>
+                  <stage><p>(Long silence. Nouvel écho.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="110">Leur paresse à la nôtre est pareille!</l>
+               </sp>
+               <sp>
+                  <speaker>LE PILOTE.</speaker>
+                  <l n="111">Répondez!—Quel pays? Quel navire?</l>
+                  <l n="112">C'est bon!</l>
+                  <l n="113">Là bas je crois voir le patron.</l>
+                  <l n="114">Holà! marin, dis-moi ton pays et ton nom.</l>
+                  <l n="115">Je viens de loin. Pendant l'orage</l>
+                  <l n="116">Voudrais-tu me chasser d'ici?</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="117">Non! Dieu, merci,</l>
+                  <l n="118">Des marins ce n'est pas l'usage!</l>
+                  <l n="119">Qui donc es-tu?</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="120">Hollandais.</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="121">Sois le bienvenu!</l>
+                  <l n="122">Du vent la violence</l>
+                  <l n="123">Nous a poussés vers ce rocher,</l>
+                  <l n="124">Tous deux ensemble.—À bien peu de distance</l>
+                  <l n="125">Est mon pays. Près d'y toucher</l>
+                  <l n="126">Je suis jeté sur cette plage.</l>
+                  <l n="127">Mais, parle encore: as-tu quelque dommage?</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="128">Mon navire est solide et peut braver l'orage!</l>
+                  <l n="129">Jouet du vent qui se déchaîne,</l>
+                  <l n="130">J'ai sur les flots erré longtemps;</l>
+                  <l n="131">Depuis quand? je le sais à peine,</l>
+                  <l n="132">Car je ne compte plus les ans.</l>
+                  <l n="133">Je ne pourrais jamais te dire</l>
+                  <l n="134">Tous les pays où j'ai passé,</l>
+                  <l n="135">Il n'en est qu'un auquel j'aspire,</l>
+                  <l n="136">Et c'est le mien, qui m'est fermé!</l>
+                  <l n="137">Dans ta maison consens à me conduire;</l>
+                  <l n="138">De ton accueil tu n'auras nul regret.</l>
+                  <l n="139">Les plus brillants trésors dans mon navire</l>
+                  <l n="140">Sont entassés sans nombre, c'est peu dire;</l>
+                  <l n="141">Ami, crois-moi, tu seras satisfait.</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="142">Discours étrange! Est-il pourtant sincère?</l>
+                  <stage><p>(Au Hollandais.)</p></stage>
+                  <l n="143">Un sort fatal t'a poursuivi longtemps?</l>
+                  <l n="144">Pour te servir je suis prêt à tout faire,</l>
+                  <l n="145">Peut-on connaître, au moins, ces biens si grands?</l>
+                  <stage><p>(Le Hollandais fait signe aux hommes de son équipage. Deux d'entre eux
+                        apportent un coffre.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="146">Tu vas trouver des splendeurs infinies,</l>
+                  <l n="147">Perles d'Asie et riches pierreries.</l>
+                  <l n="148">Vois donc, de l'hospitalité</l>
+                  <l n="149">La noble récompense,</l>
+                  <l n="150">À ton œil tenté</l>
+                  <l n="151">Briller d'avance.</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="152">Grand Dieu! Richesses sans pareilles!</l>
+                  <l n="153">Qui donc pourrait payer tant de merveilles?</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="154">Payer! Le prix déjà je te l'ai dit,</l>
+                  <l n="155">Tout est à toi pour l'abri d'une nuit.</l>
+                  <l n="156">Mais ce n'est là que le moindre trésor</l>
+                  <l n="157">De ceux que mon vaisseau recèle encor.</l>
+                  <l n="158">Qu'en puis-je faire, hélas! sans femme, sans enfant,</l>
+                  <l n="159">De mon pays toujours absent?</l>
+                  <l n="160">Tous mes trésors seront à toi</l>
+                  <l n="161">Si tu me fais une famille</l>
+                  <l n="162">Chez les tiens.</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="163">Dieu! qu'entends-je?</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="164">As-tu donc une fille?</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="165">Mais oui... charmante enfant.</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="166">Donne-la-moi.</l>
+                  <l n="167">Lui! se peut-il! épouser mon enfant!</l>
+                  <l n="168">Ah! sa pensée est la mienne.</l>
+                  <l n="169">Ah! j'ai grand peur si j'hésite un instant</l>
+                  <l n="170">Qu'un autre projet survienne.</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="171">Sans une épouse, hélas, sans un enfant,</l>
+                  <l n="172">Rien ne m'attache à la terre.</l>
+                  <l n="173">Un sort cruel me poursuit constamment</l>
+                  <l n="174">Tout vient combler ma misère.</l>
+               </sp>
+               <sp>
+                  <speaker>ENSEMBLE. LE HOLLANDAIS.</speaker>
+                  <l n="175">Chassé du lieu de ma naissance,</l>
+                  <l n="176">Qu'ai-je encor besoin d'un trésor?</l>
+                  <l n="177">À moi cette heureuse alliance</l>
+                  <l n="178">Et prends pour toi, prends tout mon or.</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="179">Quel rêve, ô fortune subite!</l>
+                  <l n="180">Pourrais-je jamais trouver mieux?</l>
+                  <l n="181">Bien fou qui du sort ne profite!</l>
+                  <l n="182">Quelle ivresse, quel jour heureux!...</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="183">Oui, je possède aimable jeune fille,</l>
+                  <l n="184">Trésor d'amour, fidèle et noble cœur.</l>
+                  <l n="185">C'est mon seul bien, l'orgueil de ma famille,</l>
+                  <l n="186">L'oubli des maux, le charme du bonheur.</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="187">Qu'elle ait toujours pour toi même tendresse,</l>
+                  <l n="188">Elle sera fidèle à son époux.</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="189">Perles, bijoux,</l>
+                  <l n="190">Oui, c'est là ta richesse;</l>
+                  <l n="191">Mais quel trésor plus grand</l>
+                  <l n="192">Qu'un cœur constant.</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="193">Tu me le donnes?</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="194">Vraiment oui, je le veux!</l>
+                  <l n="195">Ton sort m'émeut, cœur noble et généreux,</l>
+                  <l n="196">Par ta grandeur, ta force, tu m'étonnes.</l>
+                  <l n="197">Un gendre comme toi</l>
+                  <l n="198">Fût-il moins riche encore ma foi,</l>
+                  <l n="199">Par moi serait choisi.</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="200">Merci!</l>
+                  <l n="201">Verrai-je ta fille aujourd'hui?</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="202">Le premier vent nous conduira près d'elle,</l>
+                  <l n="203">Tu la verras, si tu la trouves belle...</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="204">Elle est à moi!...</l>
+                  <stage><p>(À lui-même.)</p></stage>
+                  <l n="205">Mon bon ange, est-ce toi?</l>
+                  <l n="206">Lorsque, brisé par la souffrance,</l>
+                  <l n="207">Dans mon salut encor j'ai foi</l>
+                  <l n="208">Du malheureux seule espérance.</l>
+                  <l n="209">Pourrai-je enfin compter sur toi?</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="210">Ah! gloire à toi, terrible orage,</l>
+                  <l n="211">Qui m'as guidé dans ta fureur,</l>
+                  <l n="212">Je n'ai, sans chercher davantage,</l>
+                  <l n="213">Qu'à profiter de mon bonheur.</l>
+                  <l n="214">Soyez bénis, ô vents contraires,</l>
+                  <l n="215">Qui vers ces bords m'avez poussé;</l>
+                  <l n="216">Mon vœu, ce vœu de tous les pères,</l>
+                  <l n="217">«Un gendre riche!» est exaucé!</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="218">Ah! faut-il que du ciel un ange</l>
+                  <l n="219">Pour me sauver soit descendu!</l>
+                  <l n="220">Enfin de ma torture étrange,</l>
+                  <l n="221">Pour moi le terme est-il venu?</l>
+               </sp>
+               <sp>
+                  <speaker>ENSEMBLE. LE HOLLANDAIS.</speaker>
+                  <l n="222">Ah! quand l'espoir a fui mon cœur</l>
+                  <l n="223">Puis-je rêver un sort meilleur?</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="224">À lui, si généreux, si bon,</l>
+                  <l n="225">À lui ma fille et ma maison!</l>
+                  <stage><p>(La tempête est complétement apaisée, le vent a tourné.)</p></stage>
+                  <l n="226">Vent du sud! Vent du sud!...</l>
+                  <l n="227">Hé! là!...</l>
+                  <l n="228">Bon vent du sud, ah! souffle encore!</l>
+               </sp>
+               <sp>
+                  <speaker>LES MATELOTS.</speaker>
+                  <l n="229">Hiva!...</l>
+                  <l n="230">Hiva! ah! Hiva!...</l>
+                  <l n="231">Tu vois tout est calme à présent.</l>
+                  <l n="232">Le vent est bon, la mer est belle</l>
+                  <l n="233">Allons! levons l'ancre à l'instant</l>
+                  <l n="234">Vers mon pays tout nous appelle.</l>
+                  <stage><p>(Les Matelots lèvent l'ancre et mettent les voiles dehors.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="235">Pars je t'en prie, ami, ne m'attends pas:</l>
+                  <l n="236">Le vent est frais, mon équipage est las.</l>
+                  <l n="237">Après un court repos, je suis ta route.</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="238">Mais notre vent?...</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="239">Il va durer sans doute.</l>
+                  <l n="240">Ce vaisseau-là</l>
+                  <l n="241">Bientôt te rejoindra!</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND</speaker>
+                  <l n="242">Tu crois? Eh! bien! qu'il soit fait à ta guise.</l>
+                  <l n="243">Adieu! Puisses tu voir</l>
+                  <l n="244">Ma fille dès ce soir!</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="245">C'est dit!</l>
+                  <l n="246">Hé! matelots! holà! voici la brise.</l>
+                  <l n="247">Allons? allons!</l>
+                  <l n="248">Alerte, compagnons!</l>
+                  <l n="249">Malgré vents et tempête</l>
+                  <l n="250">Auprès des miens</l>
+                  <l n="251">Ma belle, je reviens.</l>
+                  <l n="252">L'ouragan sur ma tête</l>
+                  <l n="253">En vain gronda</l>
+                  <l n="254">Ma belle me voilà!</l>
+                  <l n="255">Hurrah!...</l>
+                  <l n="256">Sans un bon vent du sud jamais</l>
+                  <l n="257">À toi je ne reviendrais!</l>
+                  <l n="258">Ah! souffle! souffle encor bon vent</l>
+                  <l n="259">Ma belle en ce jour m'attend!</l>
+                  <stage><p>(Le Hollandais monte sur son navire.)</p></stage>
+               </sp>
+            </div>
+         </div>
+         <div type="act" n="2">
+            <head>ACTE DEUXIÈME</head>
+            <stage><p>Une chambre spacieuse dans la maison de Daland. Aux murs sont accrochés des
+                  instruments de marine, des cartes, etc.—Au fond un portrait d'homme au visage
+                  pâle, à la barbe brune, au vêtement noir.</p></stage>
+            <div type="scene" n="1">
+               <head>SCÈNE PREMIÈRE</head>
+               <stage><p>SENTA, MARIE, JEUNES FILLES.</p></stage>
+               <stage><p>(Marie et les Jeunes Filles filent, assises autour de la cheminée. Senta,
+                     au fond d'un grand fauteuil les bras croisés, semble absorbée dans la
+                     contemplation du portrait.)</p></stage>
+               <sp>
+                  <speaker>CHŒUR DES JEUNES FILLES.</speaker>
+                  <l n="260">Bon rouet, gronde et bourdonne!</l>
+                  <l n="261">Tourne, tourne, va gaîment.</l>
+                  <l n="262">Bon rouet tourne et nous donne</l>
+                  <l n="263">Mille fils en bourdonnant.</l>
+                  <l n="264">Mon bien-aimé s'en va voguant</l>
+                  <l n="265">Et pense à celle qui l'attend.</l>
+                  <l n="266">Mon bon rouet tourne en sifflant</l>
+                  <l n="267">Si tu pouvais donner le vent</l>
+                  <l n="268">Comme il viendrait promptement.</l>
+                  <l n="269">File vite, ô jeune fille!...</l>
+                  <l n="270">Bon rouet tourne et babille.</l>
+               </sp>
+               <sp>
+                  <speaker>MARIE</speaker>
+                  <l n="271">Courage!</l>
+                  <l n="272">Voyez comme va l'ouvrage!</l>
+                  <l n="273">Chacune pense au mariage.</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="274">Marie!</l>
+                  <l n="275">Silence vous savez bien</l>
+                  <l n="276">Que la chanson n'est pas finie!</l>
+               </sp>
+               <sp>
+                  <speaker>MARIE.</speaker>
+                  <l n="277">Chantez et que le rouet crie!</l>
+                  <l n="278">Mais toi, Senta, tu ne dis rien?...</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="279">Bon rouet, tourne et bourdonne,</l>
+                  <l n="280">Tourne, tourne, va gaîment</l>
+                  <l n="281">Bon rouet tourne et nous donne</l>
+                  <l n="282">Mille fils en bourdonnant</l>
+                  <l n="283">Mon bien-aimé voyage encore</l>
+                  <l n="284">Au sud il va gagner de l'or.</l>
+                  <l n="285">Mon bon rouet tourne gaîment</l>
+                  <l n="286">Cet or est pour la belle enfant</l>
+                  <l n="287">Qui file, file vaillamment</l>
+                  <l n="288">File vite ô jeune fille</l>
+                  <l n="289">Bon rouet, tourne et babille</l>
+                  <l n="290">Méchante enfant,</l>
+                  <l n="291">Si tu ne files, vraiment,</l>
+                  <l n="292">Tu n'auras nul présent.</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="293">Elle a le temps, le fait est clair.</l>
+                  <l n="294">Son bien-aimé n'est pas en mer</l>
+                  <l n="295">C'est du gibier qu'il lui promet...</l>
+                  <l n="296">Ce qu'un chasseur vaut, on le sait.</l>
+                  <l n="297">Ah! ah! ah! ah!...</l>
+                  <stage><p>(Senta semble chanter tout bas et comme pour elle un motif de la
+                        ballade.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>MARIE.</speaker>
+                  <l n="298">Voyez-la! toujours même attrait!...</l>
+                  <l n="299">Veux-tu passer ta vie entière</l>
+                  <l n="300">À rêver devant un portrait?</l>
+                  <l n="301">Pourquoi m'avoir dit sa misère?</l>
+                  <l n="302">Pourquoi m'avoir dit ce qu'il est?</l>
+                  <stage><p>(Soupirant.)</p></stage>
+                  <l n="303">L'infortuné!</l>
+               </sp>
+               <sp>
+                  <speaker>MARIE.</speaker>
+                  <l n="304">Que dieu t'assiste!...</l>
+                  <l n="305">Eh! eh! eh! eh! comment juger?...</l>
+                  <l n="306">Le noir marin la fait songer.</l>
+               </sp>
+               <sp>
+                  <speaker>MARIE.</speaker>
+                  <l n="307">Toujours cet air pensif et triste!</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="308">Voyez ce que peut un portrait!</l>
+               </sp>
+               <sp>
+                  <speaker>MARIE.</speaker>
+                  <l n="309">Toujours je gronde et sans effet;</l>
+                  <l n="310">Viens, Senta; viens donc, s'il te plaît.</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="311">Son cœur est sourd</l>
+                  <l n="312">Il est rempli d'un fol amour,</l>
+                  <l n="313">Cela peut mal finir vraiment!</l>
+                  <l n="314">Érik est vif! au sang ardent!</l>
+                  <l n="315">Un malheur vient si promptement.</l>
+                  <stage><p>(Elles s'interrompent en riant.)</p></stage>
+                  <l n="316">Assez!...</l>
+                  <stage><p>(Entre elles.)</p></stage>
+                  <l n="317">Sa balle percerait</l>
+                  <l n="318">De son noir rival le portrait:</l>
+                  <l n="319">Ah! ah!...</l>
+                  <l n="320">Cessez! ce jeu ne peut me plaire.</l>
+                  <l n="321">Voulez-vous me mettre en colère?</l>
+                  <l n="322">Bon rouet tourne et bourdonne,</l>
+                  <l n="323">Tourne, tourne, va gaîment.</l>
+                  <l n="324">Bon rouet tourne et nous donne</l>
+                  <l n="325">Mille fils en bourdonnant!</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="326">Oh! quelle chanson déplaisante</l>
+                  <l n="327">Qui gronde et bourdonne sans fin!</l>
+                  <l n="328">Si vous voulez qu'aussi je chante</l>
+                  <l n="329">Il faut chercher meilleur refrain!</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="330">Bien chante alors!</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="331">Non. Toi, Marie.</l>
+                  <l n="332">Dis la ballade je t'en prie.</l>
+               </sp>
+               <sp>
+                  <speaker>MARIE.</speaker>
+                  <l n="333">Moi! la chanter! oh! non! jamais!</l>
+                  <l n="334">Que le Vaisseau Fantôme reste en paix!</l>
+                  <l n="335">Je vais la dire, écoutez bien</l>
+                  <l n="336">Et que votre âme s'attendrisse</l>
+                  <l n="337">Sur ce cruel et long supplice!</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="338">Oui! chante donc!</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="339">N'en perdez rien!</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="340">Laissons là nos rouets,</l>
+                  <l n="341">Et moi je prends le mien.</l>
+                  <stage><p>(Les jeunes filles quittent leurs rouets et se groupent autour de Senta
+                        placée dans le grand fauteuil. Marie prend son rouet et va filer près de la
+                        cheminée.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>BALLADE.SENTA.</speaker>
+                  <l n="342">Hiva! hiva!...</l>
+                  <l n="343">Avez-vous vu le vaisseau mort,</l>
+                  <l n="344">Mât noir et voile rouge?</l>
+                  <l n="345">Un homme pâle veille à bord</l>
+                  <l n="346">Sans que jamais il bouge:</l>
+                  <l n="347">Hui!... quel sifflement</l>
+                  <l n="348">Hui!... quel bruit du vent</l>
+                  <l n="349">Hiva!...</l>
+                  <l n="350">Il doit fuir sur les flots</l>
+                  <l n="351">Et sans fin, sans merci, sans repos!</l>
+                  <l n="352">Dans son malheur</l>
+                  <l n="353">L'instant peut venir de la délivrance</l>
+                  <l n="354">S'il trouve un cœur</l>
+                  <l n="355">Qui jusqu'à la mort l'aime avec constance.</l>
+                  <l n="356">Pauvre marin</l>
+                  <l n="357">Exauçant ma prière,</l>
+                  <l n="358">Le ciel j'espère</l>
+                  <l n="359">Te le fera trouver enfin!</l>
+                  <stage><p>(Vers la fin Senta se tourne vers le portrait. Les jeunes filles
+                        écoutent avec intérêt. Marie a cessé de filer.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>PARTIE II.SENTA.</speaker>
+                  <l n="360">Doublant un cap, il blasphémait,</l>
+                  <l n="361">En vain la foudre gronde,</l>
+                  <l n="362">Je veux lutter quand ce serait</l>
+                  <l n="363">Jusqu'à la fin du monde!</l>
+                  <l n="364">Hui! Satan bientôt</l>
+                  <l n="365">Hui! l'a pris au mot!</l>
+                  <l n="366">Hiva!</l>
+                  <l n="367">Son arrêt est d'errer sur les flots</l>
+                  <l n="368">Sans merci, sans repos!</l>
+                  <l n="369">Dans son malheur,</l>
+                  <l n="370">L'instant peut venir de la délivrance.</l>
+                  <l n="371">L'ange sauveur</l>
+                  <l n="372">En lui du salut a mis l'espérance.</l>
+                  <l n="373">Pauvre marin,</l>
+                  <l n="374">Exauçant ma prière</l>
+                  <l n="375">Le ciel j'espère</l>
+                  <l n="376">Te le fera trouver enfin!</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="377">Pauvre marin,</l>
+                  <l n="378">Exauçant ma prière</l>
+                  <l n="379">Le ciel j'espère</l>
+                  <l n="380">Te le fera trouver enfin.</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <stage><p>(Après que les Jeunes Filles ont répété le refrain, elle continue avec
+                        une émotion croissante.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>PARTIE III.SENTA.</speaker>
+                  <l n="381">À l'ancre il vient tous les sept ans</l>
+                  <l n="382">Pour chercher une belle.</l>
+                  <l n="383">Pas une, hélas! depuis le temps</l>
+                  <l n="384">Ne lui resta fidèle.</l>
+                  <l n="385">Hui! la voile au vent!</l>
+                  <l n="386">Hui! Vite en avant!</l>
+                  <l n="387">Hiva! Ah! faux amour! faux serment!</l>
+                  <l n="388">Sans merci, sans repos, en avant!</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="389">Ah! vers quel port</l>
+                  <l n="390">Celle que promit Dieu se trouve-t-elle?</l>
+                  <l n="391">Jusqu'à la mort</l>
+                  <l n="392">Où trouver ce cœur qui sera fidèle?</l>
+                  <l n="393">C'est moi qui veux t'aimer sans cesse,</l>
+                  <l n="394">Dieu tout-puissant, fais qu'il paraisse,</l>
+                  <l n="395">Que grâce à moi sa peine cesse!</l>
+                  <stage><p>(Les Jeunes Filles se lèvent effrayées.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>MARIE et LES JEUNES FILLES.</speaker>
+                  <l n="396">—Qu'entends-je? Dieu!</l>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>SCÈNE II</head>
+
+               <l n="397">Les Mêmes, ÉRIK.</l>
+               <sp>
+                  <l n="398">—Senta! veux-tu donc que j'expire?...</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="399">À l'aide, Érik; ah! quel délire!</l>
+               </sp>
+               <sp>
+                  <speaker>MARIE.</speaker>
+                  <l n="400">De crainte à peine je respire.</l>
+                  <l n="401">Portrait maudit! Il s'en ira.</l>
+                  <l n="402">Dès que le père reviendra,</l>
+                  <l n="403">Le père vient.</l>
+                  <l n="404">Mon père vient!</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="405">Déjà</l>
+                  <l n="406">L'on peut voir son navire.</l>
+               </sp>
+               <sp>
+                  <speaker>MARIE.</speaker>
+                  <l n="407">On s'amuse à quelque chanson</l>
+                  <l n="408">Et rien n'est prêt dans la maison!</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="409">Ils sont venus! Courons vers eux!</l>
+               </sp>
+               <sp>
+                  <speaker>MARIE.</speaker>
+                  <l n="410">Holà! restez donc, je le veux!</l>
+                  <l n="411">Les marins ont fait maigre chère</l>
+                  <l n="412">À la cuisine il faut courir.</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="413">Que de questions à lui faire!</l>
+                  <l n="414">Je ne saurais me contenir.</l>
+               </sp>
+               <sp>
+                  <speaker>MARIE.</speaker>
+                  <l n="415">Faisons d'abord ce qu'il faut faire,</l>
+                  <l n="416">C'est son devoir qu'on doit remplir.</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="417">C'est bon! Hâtons-nous de tout faire</l>
+                  <l n="418">Rien ne pourra nous retenir.</l>
+                  <stage><p>(Marie pousse les Jeunes Filles devant elle et les suit.)</p></stage>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>SCÈNE III</head>
+               <stage><p>SENTA, ÉRIK.</p></stage>
+               <stage><p>Senta veut suivre les Jeunes Filles, Érik la retient.</p></stage>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="420">Ô reste! reste encore un seul instant!</l>
+                  <l n="421">Délivre moi de mon tourment,</l>
+                  <l n="422">Ou bien achève, ôte-moi l'existence?</l>
+                  <l n="423">Comment! Eh quoi!</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="424">Senta! Que faut-il que je pense?</l>
+                  <l n="425">Ton père vient; et s'il doit repartir,</l>
+                  <l n="426">À son désir il faudra bien te rendre.</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="427">Et quel désir?</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="428">Il fera choix d'un gendre.</l>
+                  <l n="429">Mon cœur toujours fidèle et tendre,</l>
+                  <l n="430">Mon peu de bien, ma chance de chasseur,</l>
+                  <l n="431">À toi, réponds, est-ce assez pour prétendre,</l>
+                  <l n="432">Est-ce un refus qu'il faut attendre?</l>
+                  <l n="433">Et quand mon cœur sera meurtri,</l>
+                  <l n="434">Senta, qui doit parler pour lui?</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="435">Ah! c'est assez, Érik; car, de ce pas,</l>
+                  <l n="436">Je vais chercher mon père</l>
+                  <l n="437">À son retour, s'il ne me voyait pas,</l>
+                  <l n="438">Cela pourrait déplaire.</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="439">Eh! quoi, tu pars!</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="440">Voici l'instant.</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="441">Tu veux me fuir!</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="442">Mon père attend.</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="443">Tu fuis l'aspect de ma blessure!</l>
+                  <l n="444">Tu fuis devant ma folle ardeur!</l>
+                  <l n="445">Entends encor, je t'en conjure,</l>
+                  <l n="446">Ce dernier cri de ma douleur;</l>
+                  <l n="447">Lorsque mon cœur sera meurtri</l>
+                  <l n="448">Senta, qui doit parler pour lui?...</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="449">Quoi! sans compter sur ma tendresse</l>
+                  <l n="450">Ainsi tu doutes de mon cœur?</l>
+                  <l n="451">D'où vient le trouble qui t'oppresse,</l>
+                  <l n="452">Dis-moi qui cause ta douleur?</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="453">Ton père! c'est l'or seul qui le séduit.</l>
+                  <l n="454">En toi, Senta, faut-il donc que j'espère?</l>
+                  <l n="455">Exauças-tu jamais une prière?</l>
+                  <l n="456">Mon cœur gémit et jour et nuit!</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="457">Ton cœur...</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="458">Que dois-je faire?</l>
+                  <l n="459">Ce portrait...</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="460">Le portrait?</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="461">D'un rêve ardent quand finira l'effet.</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="462">Puis-je empêcher un charme qui me tente?</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="463">Et la ballade... encor tu la chantais?</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="464">Comme une enfant, sais-je ce que je chante?</l>
+                  <l n="465">Réponds! as-tu donc peur des chansons, des portraits?</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="466">Ton front pâlit, dis, n'ai-je rien à craindre?</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="467">L'infortuné n'est-il donc pas à plaindre?</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="468">Songe plutôt aux maux que je ressens!</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="469">Ah! ne t'en vante pas! Que sont donc tes tourments?</l>
+                  <stage><p>(Conduisant Érik près du portrait.)</p></stage>
+                  <l n="470">Connais-tu donc le sort de ce marin?</l>
+                  <l n="471">Vois comme avec un noir chagrin</l>
+                  <l n="472">Son œil voilé vers moi s'abaisse.</l>
+                  <l n="473">Ah! de son sort l'éternelle détresse</l>
+                  <l n="474">Me fait souffrir d'affreux tourments!</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="475">Malheur!</l>
+                  <l n="476">Tu disais vrai, songe d'horreur!</l>
+                  <l n="477">Dieu te protége!</l>
+                  <l n="478">Satan t'a prise au piége.</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="479">Mais quel effroi soudain?</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="480">Écoute-moi, Senta!</l>
+                  <l n="481">Un rêve ici t'éclairera.</l>
+                  <stage><p>(Senta s'assied épuisée dans le fauteuil. Au commencement du récit
+                        d'Érik elle semble tomber dans un sommeil magnétique et voir à son tour tout
+                        ce qu'on lui raconte. Érik est debout auprès d'elle, appuyé sur le
+                        siége.)</p></stage>
+                  <l n="482">Sur le sommet d'un roc sauvage</l>
+                  <l n="483">Je contemplais le flot bruyant,</l>
+                  <l n="484">Et chaque vague sur la plage</l>
+                  <l n="485">Venait s'abattre en écumant,</l>
+                  <l n="486">Quand un vaisseau fend l'onde amère</l>
+                  <l n="487">Étrange, bizarre, inconnu.</l>
+                  <l n="488">Deux hommes s'avançaient à terre,</l>
+                  <l n="489">L'un d'eux, Senta, c'était ton père.</l>
+                  <l n="490">Et l'autre?</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="491">Je l'ai reconnu!</l>
+                  <l n="492">Au noir habit, au front sévère.</l>
+                  <l n="493">À l'œil chagrin!</l>
+                  <l n="494">C'était bien lui!</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="495">Et moi?...</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="496">Sortant alors d'ici,</l>
+                  <l n="497">Tu vins pour saluer ton père.</l>
+                  <l n="498">Avec ferveur tu t'es hâtée,</l>
+                  <l n="499">Vers l'étranger lors emportée,</l>
+                  <l n="500">À ses genoux tu t'es jetée.</l>
+                  <l n="501">Il prit mes mains...</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="502">Et sur son cœur</l>
+                  <l n="503">Il te pressait dans son ardeur.</l>
+                  <l n="504">Tu l'embrassais avec bonheur...</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="505">Et puis?...</l>
+                  <l n="506">Sur mer tous deux enfuis!...</l>
+                  <l n="507">Il vient à moi! Je dois le voir!</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="508">L'effroi me tue!...</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="509">Unie à lui, moi je mourrai!</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="510">Ô sort trop clair! Elle est perdue!...</l>
+                  <l n="511">Mon rêve est vrai!...</l>
+                  <stage><p>(Érik s'enfuit rempli d'épouvante. Senta après un élan d'enthousiasme
+                        retombe dans une muette contemplation et reste à la même place l'œil fixé
+                        sur le portrait.)</p></stage>
+                  <l n="512">Pauvre marin,</l>
+                  <l n="513">Qu'exauçant ma prière</l>
+                  <l n="514">Ce cœur sincère</l>
+                  <l n="515">Le ciel te le réserve enfin!</l>
+               </sp>
+            </div>
+            <div type="scene" n="4">
+               <head>SCÈNE IV</head>
+               <stage><p>SENTA, DALAND, le HOLLANDAIS.</p></stage>
+               <stage><p>La porte s'ouvre. Daland et le Hollandais entrent. Aussitôt que le
+                     Hollandais paraît, le regard de Senta passe du portrait sur lui. Elle pousse un
+                     cri de surprise et demeure immobile, comme fascinée, sans quitter l'étranger
+                     des yeux.—Le Hollandais s'avance sur le devant de la scène. Daland s'est arrêté
+                     à la porte et y reste comme attendant que Senta vienne au-devant de
+                  lui.</p></stage>
+               <sp>
+                  <speaker>le HOLLANDAIS.</speaker>
+                  <l n="517">Ma fille, enfin vers toi j'arrive,</l>
+                  <l n="518">Quoi! pas un sourire, un baiser?</l>
+                  <l n="519">Quel charme étrange te captive?</l>
+                  <l n="520">Est-ce ainsi qu'on doit me traiter?</l>
+                  <l n="521">Salut à toi!</l>
+               </sp>
+               <stage><p>(L'attirant plus près d'elle.)</p></stage>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="522">Cet étranger,</l>
+                  <l n="523">Père, qui peut-il être?</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="524">Tu le voudrais connaître?</l>
+                  <l n="525">A l'étranger enfant, ton accueil peut sourire,</l>
+                  <l n="526">C'est un marin qui vient demander un abri,</l>
+                  <l n="527">Sans femme, sans patrie, errant sur son navire,</l>
+                  <l n="528">Des biens les plus vantés il revient enrichi.</l>
+                  <l n="529">Il veut, chassé de sa patrie,</l>
+                  <l n="530">Payer bien cher un toit ami.</l>
+                  <l n="531">Veux-tu, Senta, dis, je t'en prie,</l>
+                  <l n="532">Que l'étranger habite ici?</l>
+                  <l n="533">Chez nous qu'il trouve un abri?</l>
+                  <stage><p>(Au Hollandais.)</p></stage>
+                  <l n="534">L'ai-je dépeinte trop charmante?</l>
+                  <l n="535">De tant d'attraits es-tu content?</l>
+                  <l n="536">Est-il besoin que je la vante?</l>
+                  <l n="537">De son sexe elle est l'ornement.</l>
+                  <stage><p>(Le Hollandais fait un mouvement d'assentiment.)</p></stage>
+                  <l n="538">À l'étranger, enfant, ton accueil peut sourire,</l>
+                  <l n="539">L'espoir de ton amour l'amène auprès de nous</l>
+                  <l n="540">Tends-lui la main, qu'il soit, si ton cœur le désire,</l>
+                  <l n="541">Ton fiancé ce soir, et demain ton époux.</l>
+                  <stage><p>(Senta tressaille, mais reste calme. Daland prend une parure et la
+                        montre à sa fille).</p></stage>
+                  <l n="542">Vois ces bijoux, chaîne brillante;</l>
+                  <l n="543">Il garde encor plus beaux présents.</l>
+                  <l n="544">N'est-il donc là rien qui te tente?</l>
+                  <l n="545">Tout est à toi, si tu consens.</l>
+                  <stage><p>(Senta, sans paraître entendre, demeure les yeux fixés sur le
+                        Hollandais. Celui-ci, de son côté, la contemple sans écouter
+                     Daland.)</p></stage>
+                  <l n="546">Mais, pas un mot! je suis de trop pour eux.</l>
+                  <l n="547">Allons! laissons-les seuls, cela vaut mieux.</l>
+                  <stage><p>(Il considère attentivement le Hollandais et sa fille.)</p></stage>
+                  <stage><p>(À Senta.)</p></stage>
+                  <l n="548">Fais qu'il te garde sa tendresse,</l>
+                  <l n="549">Un tel bonheur n'est pas fréquent.</l>
+                  <stage><p>(Au Hollandais.)</p></stage>
+                  <l n="550">Restez donc seuls, moi je vous laisse.</l>
+                  <l n="551">Son front est pur, son cœur constant.</l>
+                  <stage><p>(Daland s'éloigne lentement en les considérant tous deux avec
+                        complaisance. Le Hollandais et Senta restent seuls. Ils demeurent
+                        immobiles.)</p></stage>
+               </sp>
+            </div>
+            <div type="scene" n="5">
+               <head>SCÈNE V</head>
+               <stage><p>SENTA, LE HOLLANDAIS.</p></stage>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="552">Du temps passé, comme un lointain mirage,</l>
+                  <l n="553">Son seul aspect vient m'émouvoir.</l>
+                  <l n="554">Telle souvent m'apparut son image,</l>
+                  <l n="555">Telle à présent j'ai cru la voir.</l>
+                  <l n="556">Combien de fois mes yeux sur une femme</l>
+                  <l n="557">Se sont levés dans un ardent désir!</l>
+                  <l n="558">Car à mon cœur Satan laissa sa flamme</l>
+                  <l n="559">Pour redoubler les maux qu'il doit souffrir.</l>
+                  <l n="560">Le sombre feu qui toujours me dévore,</l>
+                  <l n="561">Du nom d'amour l'appellerai-je encore?</l>
+                  <l n="562">Oh! non! plutôt du salut c'est l'espoir!</l>
+                  <l n="563">À ce cœur pur puisse-je le devoir!</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="564">Suis-je perdue, à présent, dans un songe,</l>
+                  <l n="565">Mirage étrange du sommeil?</l>
+                  <l n="566">Jusqu'à ce jour, jouet d'un vain mensonge,</l>
+                  <l n="567">Est-ce l'instant de mon réveil?</l>
+                  <l n="568">Lorsque je vois cette angoisse mortelle</l>
+                  <l n="569">Où tant de maux se lisent à la fois,</l>
+                  <l n="570">De la pitié la voix me trompe-t-elle?</l>
+                  <l n="571">Tel je le vis, et tel je le revois.</l>
+                  <l n="572">Ce feu brûlant dont l'ardeur me dévore,</l>
+                  <l n="573">Ah! de quel nom l'appellerai-je encore?</l>
+                  <l n="574">La grâce, le salut, ton seul espoir,</l>
+                  <l n="575">À mon amour puisses-tu le devoir!</l>
+                  <l n="576">Veux-tu, docile aux vœux d'un père,</l>
+                  <l n="577">Céder au choix qu'il a su faire?</l>
+                  <l n="578">Veux-tu donner la main, ta vie entière,</l>
+                  <l n="579">À l'étranger, et pour l'éternité?</l>
+                  <l n="580">Pour obtenir le repos que j'espère,</l>
+                  <l n="581">Puis-je compter sur ta fidélité?</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="582">Qui que tu sois, quelque tourment barbare</l>
+                  <l n="583">Que le destin te condamne à subir,</l>
+                  <l n="584">Et quel que soit le sort qu'il me prépare,</l>
+                  <l n="585">Mon père parle, et je veux obéir.</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="586">Quoi! pour toujours tu consens à me suivre?</l>
+                  <l n="587">De mes tourments ainsi s'émeut ton cœur!</l>
+                  <l n="588">De ses tourments, qu'enfin je le délivre!</l>
+                  <l n="589">Ô doux accents, au sein de ma douleur!</l>
+                  <l n="590">Ange clément, oui, ton amour céleste</l>
+                  <l n="591">Vaincrait l'enfer et son tourment.</l>
+                  <l n="592">Ah! du salut si quelque espoir me reste,</l>
+                  <l n="593">Qu'il vienne d'elle, ô Dieu puissant!</l>
+                  <l n="594">Si tu savais à quel supplice</l>
+                  <l n="595">Le sort t'expose auprès de moi,</l>
+                  <l n="596">Tu comprendrais quel sacrifice</l>
+                  <l n="597">Tu fais en me donnant ta foi!</l>
+                  <l n="598">À ce spectacle, ta jeune âme</l>
+                  <l n="599">Frissonnerait avec effroi,</l>
+                  <l n="600">Si la vertu qui fait la femme,</l>
+                  <l n="601">Fidélité! ne brille en toi.</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="602">Je sais le devoir d'une femme,</l>
+                  <l n="603">Infortuné, rassure-toi!</l>
+                  <l n="604">Que le destin éprouve l'âme</l>
+                  <l n="605">Qui veut braver sa dure loi.</l>
+                  <l n="606">Dans la ferveur d'un cœur sans tache,</l>
+                  <l n="607">Ma foi se donne sans effort.</l>
+                  <l n="608">Oui, je saurai remplir ma tâche:</l>
+                  <l n="609">Fidélité jusqu'à la mort!</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="610">Un baume saint sur ma blessure</l>
+                  <l n="611">Paraît versé par son serment.</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="612">Quelle est la voix qui me conjure</l>
+                  <l n="613">De mettre fin à son tourment?</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="614">C'est mon salut, ah! tout enfin le prouve!</l>
+                  <l n="615">Cesse, rigueur d'un triste sort!</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="616">Ah! comme en son pays, qu'il trouve</l>
+                  <l n="617">Après l'orage enfin le port!</l>
+                  <l n="618">D'où naît en moi pareille audace,</l>
+                  <l n="619">Et dans mon sein quel feu nouveau?</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="620">L'étoile du malheur s'efface,</l>
+                  <l n="621">L'espoir rallume son flambeau.</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="622">Le charme puissant qui m'enflamme,</l>
+                  <l n="623">C'est ton pouvoir, fidélité!</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="624">Vous, anges, faites qu'en son âme</l>
+                  <l n="625">Règne à jamais fidélité!</l>
+               </sp>
+            </div>
+            <div type="scene" n="5">
+               <head>SCÈNE VI</head>
+               <stage><p>Les Mêmes, DALAND.</p></stage>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="627">Pardon! mes gens sont là, criant bien fort.</l>
+                  <l n="628">Chez nous on fête</l>
+                  <l n="629">Le retour au port.</l>
+                  <l n="630">Et quand s'apprête</l>
+                  <l n="631">Ce jour de plaisir,</l>
+                  <l n="632">Par votre hymen pourra-t-on l'embellir?</l>
+                  <stage><p>(Au Hollandais.)</p></stage>
+                  <l n="633">Tous deux vous avez pu vous connaître à loisir.</l>
+                  <stage><p>(À Senta.)</p></stage>
+                  <l n="634">Parle, Senta, dis, veux-tu consentir?</l>
+                  <l n="635">Voici ma main! à toi mon sort!</l>
+                  <l n="636">Fidélité jusqu'à la mort!</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="637">À moi son cœur jusqu'à la mort!</l>
+                  <l n="638">Enfin, l'enfer est le moins fort!</l>
+               </sp>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="639">Pour nous s'annonce un heureux sort!</l>
+                  <l n="640">Allons! Tout est en fête au port!</l>
+               </sp>
+            </div>
+         </div>
+         <div type="act" n="3">
+            <head>ACTE TROISIÈME</head>
+            <stage><p>Un havre bordé de rochers d'un côté. Sur le devant de la scène, la maison de
+                  Daland. Au fond, le navire du Norvégien, et celui du Hollandais assez rapprochés
+                  l'un de l'autre. Nuit claire. Le navire norvégien est illuminé, les matelots sont
+                  sur le pont, bruyants éclats de joie. L'aspect du navire Hollandais forme avec
+                  cette allégresse un contraste sinistre; une nuit fantastique l'enveloppe de toutes
+                  parts. Il y règne un silence de mort.</p></stage>
+            <div type="scene" n="1">
+               <head>SCÈNE PREMIÈRE</head>
+               <stage><p>LES MATELOTS HOLLANDAIS.</p></stage>
+               <sp>
+                  <speaker>CHŒUR DE MATELOTS.</speaker>
+                  <l n="641">Timonier, viens à nous!</l>
+                  <l n="642">Le repos est si doux!</l>
+                  <l n="643">Hiva! matelots, carguez,</l>
+                  <l n="644">Et mouillez!</l>
+                  <l n="645">Nous ne craignons guère</l>
+                  <l n="646">Flots ni vent,</l>
+                  <l n="647">Sachons nous distraire</l>
+                  <l n="648">En chantant.</l>
+                  <l n="649">J'ai ma belle à terre</l>
+                  <l n="650">Qui m'attend,</l>
+                  <l n="651">Un flacon de rack</l>
+                  <l n="652">Et d'excellent tabac.</l>
+                  <l n="653">Hiva!</l>
+                  <l n="654">En narguant</l>
+                  <l n="655">Flots et vent,</l>
+                  <l n="656">Amarrez</l>
+                  <l n="657">Et mouillez!</l>
+                  <stage><p>(Ils dansent gaîment sur le tillac en frappant du pied.)</p></stage>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>SCÈNE II</head>
+               <stage><p>LES MATELOTS, LES JEUNES FILLES.</p></stage>
+               <stage><p>Les jeunes filles arrivent apportant des corbeilles pleines de vivres et de
+                     liqueurs.</p></stage>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="659">Ah! regardez! ils dansent tous,</l>
+                  <l n="660">Ils n'ont pas besoin de nous!</l>
+                  <stage><p>(Elles s'approchent du vaisseau hollandais.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>LES MATELOTS.</speaker>
+                  <l n="661">Les belles, où donc allez-vous?</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="662">Quoi! ne pensez-vous donc qu'au vin?</l>
+                  <l n="663">Avec vous seuls loin d'être aimables,</l>
+                  <l n="664">Faisons la part pour le voisin.</l>
+               </sp>
+               <sp>
+                  <speaker>LES MATELOTS.</speaker>
+                  <l n="665">C'est vrai! donnez aux pauvres diables,</l>
+                  <l n="666">Ils sont mourants de soif, de faim.</l>
+                  <stage><p>(Examinant le vaisseau hollandais.)</p></stage>
+                  <l n="667">J'écoute en vain!</l>
+                  <l n="668">Mais nul fanal! voyez, sur leur bord nul marin!</l>
+                  <l n="669">Eh! matelot! veux-tu du feu?</l>
+                  <l n="670">Où donc es-tu? on y voit peu!</l>
+                  <l n="671">Laissez-les donc! ils dorment tous!</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="672">Holà marins! réveillez-vous!</l>
+                  <stage><p>(Long silence.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>LES MATELOTS.</speaker>
+                  <l n="673">Ah! ah! je pense qu'ils sont morts!</l>
+                  <l n="674">Ils n'ont besoin de rien alors!</l>
+                  <l n="675">Allons! qu'on s'apprête</l>
+                  <l n="676">Marins paresseux!</l>
+                  <l n="677">N'est-ce donc pas fête</l>
+                  <l n="678">Aujourd'hui pour eux?</l>
+                  <l n="679">Ils restent tous muets encor</l>
+                  <l n="680">Comme un dragon gardant de l'or.</l>
+                  <l n="681">Holà! hé! marin</l>
+                  <l n="682">Veux-tu du bon vin?</l>
+                  <l n="683">Quoi, rien ne te tente,</l>
+                  <l n="684">Tu fuis tout régal,</l>
+                  <l n="685">Pas un ne boit, pas un ne chante,</l>
+                  <l n="686">À bord ne brille aucun fanal.</l>
+                  <l n="687">N'as-tu sur la plage</l>
+                  <l n="688">Aucun rendez-vous?</l>
+                  <l n="689">Viens sur le rivage</l>
+                  <l n="690">Danser avec nous.</l>
+                  <l n="691">Ils sont tous vieux et tous perclus,</l>
+                  <l n="692">Leurs amoureuses ne sont plus.</l>
+                  <l n="693">Marins! marins! réveillez-vous!</l>
+                  <l n="694">Voilà des fruits et du vin doux!</l>
+                  <stage><p>(Long silence.)</p></stage>
+                  <l n="695">C'est bien certain! ils sont tous morts!</l>
+                  <l n="696">Ils n'ont besoin de rien alors!</l>
+                  <l n="697">Sachez-le bien, ce vaisseau qu'on nomma</l>
+                  <l n="698">«Le vaisseau Fantôme» il est là!</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="699">Ah! n'éveillez pas l'équipage!</l>
+                  <l n="700">Ce sont, je gage,</l>
+                  <l n="701">Des esprits!</l>
+               </sp>
+               <sp>
+                  <speaker>LES MATELOTS.</speaker>
+                  <l n="702">Combien sur vos têtes</l>
+                  <l n="703">De siècles enfuis?</l>
+                  <l n="704">Des vents, des tempêtes</l>
+                  <l n="705">Vous narguez les bruits!</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="706">Ils n'ont besoin d'aucun régal</l>
+                  <l n="707">À bord ne brille aucun fanal.</l>
+               </sp>
+               <sp>
+                  <speaker>LES MATELOTS.</speaker>
+                  <l n="708">N'est-il pas de lettre</l>
+                  <l n="709">Que, depuis le temps,</l>
+                  <l n="710">Il faudrait remettre</l>
+                  <l n="711">À vos grands parents?</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="712">Ils sont tous vieux et tous perclus,</l>
+                  <l n="713">Leurs amoureuses ne sont plus.</l>
+               </sp>
+               <sp>
+                  <speaker>LES MATELOTS.</speaker>
+                  <l n="714">Hé! montrez-nous comme,</l>
+                  <l n="715">Les voiles au vent,</l>
+                  <l n="716">Le Vaisseau Fantôme</l>
+                  <l n="717">S'enfuit promptement!</l>
+                  <l n="718">Pas un n'entend! Ah! quel frisson!</l>
+                  <l n="719">Les appeler... Mais à quoi bon?</l>
+               </sp>
+               <sp>
+                  <speaker>LES MATELOTS.</speaker>
+                  <l n="720">Allons! laissez les morts en paix.</l>
+                  <l n="721">Gardez pour nous ces gais apprêts.</l>
+                  <l n="722">Prenez sans gêne, l'autre dort.</l>
+               </sp>
+               <sp>
+                  <speaker>LES MATELOTS.</speaker>
+                  <l n="723">Quoi! ne venez-vous pas à bord?</l>
+               </sp>
+               <sp>
+                  <speaker>LES JEUNES FILLES.</speaker>
+                  <l n="724">Il n'est pas temps, non, pas si vite.</l>
+                  <l n="725">C'est pour plus tard; buvez à flots,</l>
+                  <l n="726">Et, s'il vous plaît, dansez ensuite,</l>
+                  <l n="727">Mais ne troublez pas leur repos.</l>
+                  <l n="728">Laissez le voisin en repos!</l>
+                  <stage><p>(Elles s'en vont.)</p></stage>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>SCÈNE III</head>
+               <stage><p>LES MATELOTS, LE TIMONIER.</p></stage>
+               <sp>
+                  <l n="729">Hurrah! la bonne aubaine!</l>
+                  <l n="730">Ah! cher voisin, merci!</l>
+               </sp>
+               <sp>
+                  <speaker>LE TIMONIER.</speaker>
+                  <l n="731">Buvons, amis, à tasse pleine.</l>
+                  <l n="732">Merci, voisin! Buvons à lui!</l>
+                  <l n="733">Voisin, s'il te reste la voix,</l>
+                  <l n="734">Éveille-toi! viens, chante et bois!</l>
+                  <stage><p>(À partir de ce moment, le mouvement commence sur le vaisseau
+                        hollandais.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>LES MATELOTS NORVÉGIENS.</speaker>
+                  <l n="735">Éveille toi! viens! chante et bois!</l>
+                  <l n="736">Hurrah!</l>
+                  <stage><p>(Ils boivent et choquent fortement leurs gobelets.)</p></stage>
+                  <l n="737">Timonier, viens à nous</l>
+                  <l n="738">Le repos est si doux!</l>
+                  <l n="739">Hiva!</l>
+                  <l n="740">Matelots, carguez,</l>
+                  <l n="741">Et mouillez!</l>
+                  <l n="742">De la mer profonde</l>
+                  <l n="743">Plus d'un grain</l>
+                  <l n="744">Nous fit goûter l'onde,</l>
+                  <l n="745">C'est malsain.</l>
+                  <l n="746">Chantons à la ronde,</l>
+                  <l n="747">Verre en main.</l>
+                  <l n="748">Plus chaude liqueur</l>
+                  <l n="749">Va nous donner du cœur</l>
+                  <l n="750">Hiva!</l>
+                  <l n="751">En narguant</l>
+                  <l n="752">Flots et vent,</l>
+                  <l n="753">Amarrez</l>
+                  <l n="754">Et carguez.</l>
+                  <l n="755">Timonier viens à nous</l>
+                  <l n="756">Le repos est si doux,</l>
+                  <l n="757">Hiva!</l>
+                  <l n="758">Timonier, bois, avec nous,</l>
+                  <l n="759">En narguant</l>
+                  <l n="760">Flots et vent!</l>
+               </sp>
+            </div>
+            <div type="scene" n="4">
+               <head>SCÈNE IV</head>
+               <stage><p>LES MARINS NORVÉGIENS, LES MARINS HOLLANDAIS.</p></stage>
+               <stage><p>L'équipage du Vaisseau fantôme paraît sur le pont du navire. La mer, qui
+                     reste calme partout ailleurs, s'agite soudainement autour du Vaisseau fantôme.
+                     Une lueur bleuâtre et sinistre flamboie sur le navire comme un fanal de garde.
+                     Un vent de tempête se met à siffler dans les cordages. L'équipage qui,
+                     auparavant, n'avait pas donné signe de vie, commence à s'animer et exécute avec
+                     rapidité les diverses manœuvres.</p></stage>
+               <sp>
+                  <speaker>LES MARINS DU VAISSEAU FANTÔME.</speaker>
+                  <l n="762">Ah! Hiva! Hui! Hiva! L'ouragan pousse au port!</l>
+                  <l n="763">Voile au vent, ancre à bord!</l>
+                  <l n="764">Et dans l'anse</l>
+                  <l n="765">On s'élance!</l>
+                  <l n="766">Noir marin, allons, descends!</l>
+                  <l n="767">Déjà sont passés sept ans,</l>
+                  <l n="768">Fais la cour à blonde enfant.</l>
+                  <l n="769">Blonde enfant tiens ton serment!</l>
+                  <l n="770">Quelle fête!</l>
+                  <l n="771">Ô fiancés, la tempête</l>
+                  <l n="772">Et le vent</l>
+                  <l n="773">Des noces c'est le chant!</l>
+                  <l n="774">Capitaine, es-tu de retour?</l>
+                  <l n="775">Voile au vent! mais ta belle</l>
+                  <l n="776">Où donc est-elle?</l>
+                  <l n="777">Vite en mer! Tu n'as pas de bonheur en amour!</l>
+                  <l n="778">Hiva! ah!</l>
+                  <l n="779">Que mugissent vents et flots!</l>
+                  <l n="780">Pour nos voiles nul repos!</l>
+                  <l n="781">Satan même les tissa,</l>
+                  <l n="782">Nul orage n'y mordra!</l>
+                  <l n="783">Ah! Hiva! ah!</l>
+                  <l n="784">Rien n'y fera!</l>
+                  <l n="785">Les matelots norvégiens observent d'abord avec surprise, ensuite avec
+                     épouvante ce qui se passe à bord du Vaisseau fantôme.</l>
+                  <l n="786">Pendant le chant des Hollandais leur navire est ballotte par les flots.
+                     Un vent horrible se fait sentir à travers les cordages et les voiles qui
+                     s'agitent avec un bruit lugubre et menaçant.</l>
+                  <l n="787">Par un contraste surnaturel le calme le plus parfait règne dans l'air
+                     et sur la mer, partout, excepté autour du Vaisseau fantôme.</l>
+               </sp>
+               <sp>
+                  <speaker>LES MATELOTS NORVÉGIENS.</speaker>
+                  <l n="788">Ah! quels cris</l>
+                  <l n="789">Des esprits!</l>
+                  <l n="790">Je frémis!</l>
+                  <l n="791">Répétons hardiment</l>
+                  <l n="792">Notre chant!</l>
+                  <l n="793">Timonier, viens à nous</l>
+                  <l n="794">Le repos est si doux</l>
+                  <l n="795">Répétons</l>
+                  <l n="796">Nos chansons!</l>
+               </sp>
+               <sp>
+                  <speaker>LES HOLLANDAIS.</speaker>
+                  <l n="797">Hiva! ah!</l>
+                  <l n="798">Que mugissent vents et flots,</l>
+                  <l n="799">Pour nos voiles nul repos!</l>
+                  <l n="800">Satan même les tissa,</l>
+                  <l n="801">Nul orage n'y mordra.</l>
+                  <l n="802">Non! rien n'y fera,</l>
+                  <l n="803">Ah! Hiva!</l>
+                  <l n="804">Le chant des Hollandais est devenu de plus en plus sauvage, les
+                     Norvégiens cherchent vainement à le dominer par leur chanson. Le tumulte de la
+                     mer et le mugissement d'une tempête surnaturelle les réduisent an silence. Au
+                     comble de l'épouvante ils s'enfuient en abandonnant le pont de leur navire. Les
+                     Hollandais qui les voient fuir, poussent un cri strident de moquerie. Tout à
+                     coup un silence profond règne de nouveau sur le Vaisseau fantôme, la mer et la
+                     tempête se calment également.</l>
+               </sp>
+            </div>
+            <div type="scene" n="5">
+               <head>SCÈNE V</head>
+               <stage><p>SENTA, ÉRIK.</p></stage>
+               <stage><p>Senta sort tout émue de la maison. Érik la suit dans une vive
+                     agitation.</p></stage>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="806">Que viens-je d'entendre!</l>
+                  <l n="807">Ô fatalité!</l>
+                  <l n="808">Est-ce mensonge ou vérité?...</l>
+                  <l n="809">Ah! laisse-moi! je n'ai rien à t'apprendre.</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="810">Ô juste Dieu! nul doute... plus d'erreur!</l>
+                  <l n="811">Par quel pouvoir fatal fus-tu séduite</l>
+                  <l n="812">Et quel attrait t'a fait céder si vite?</l>
+                  <l n="813">C'est en riant que tu brisas mon cœur.</l>
+                  <l n="814">Ton père, lui, guida le fiancé!</l>
+                  <l n="815">Je le connais!... J'avais tout annoncé!...</l>
+                  <l n="816">Mais toi, quand j'y pense,</l>
+                  <l n="817">À peine est-il venu, soudain,</l>
+                  <l n="818">À l'étranger donner ta main...</l>
+                  <l n="819">Silence!...</l>
+                  <l n="820">Ah! je le dois!...</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="821">Aveugle obéissance</l>
+                  <l n="822">Et plus aveugle choix!</l>
+                  <l n="823">Sans hésiter je te vis te soumettre,</l>
+                  <l n="824">Du même coup tu m'ôtes tout espoir!...</l>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="825">Assez! va-t'en! il ne faut plus nous voir,</l>
+                  <l n="826">Ni nous connaître.</l>
+                  <l n="827">C'est là mon devoir!</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="828">Et quel devoir? Eh quoi! ta foi chancelle!...</l>
+                  <l n="829">Tu m'as promis naguère amour fidèle!...</l>
+                  <l n="830">Quoi! ce serment aurait pu nous lier?</l>
+                  <l n="831">Parle! Senta! Dis! peux-tu le nier?</l>
+                  <l n="832">Te souvient-il du jour où dans la plaine</l>
+                  <l n="833">Auprès de toi tu m'appelais alors,</l>
+                  <l n="834">Ou sur un pic cherchant la fleur lointaine,</l>
+                  <l n="835">Je la cueillais au prix de mille efforts.</l>
+                  <l n="836">Songe à ce jour ou de ce roc qui penche</l>
+                  <l n="837">Nous avons vu ton père fuir le port?</l>
+                  <l n="838">Nous regardions au loin sa voile blanche,</l>
+                  <l n="839">Et c'est à moi qu'il confia ton sort.</l>
+                  <l n="840">Sur mon épaule alors jetant ton bras,</l>
+                  <l n="841">De tes serments ne te souviens-tu pas?</l>
+                  <l n="842">Ta main tremblait dans la mienne, et ce jour</l>
+                  <l n="843">Me présageait le plus fidèle amour!</l>
+               </sp>
+            </div>
+            <div type="scene" n="5">
+               <head>SCÈNE VI</head>
+
+               <stage>Les Mêmes, LE HOLLANDAIS.</stage>
+               <stage><p>(Le Hollandais, qui depuis un moment écoutait, accourt dans une violente
+                     agitation.)</p></stage>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="845">C'en est fait! Ô misère!...</l>
+                  <l n="846">Ah! tout salut me fuit!...</l>
+                  <l n="847">Que vois-je! Dieu!...</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="848">Senta, je pars! adieu!...</l>
+                  <l n="849">Arrête, malheureux!</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="850">Senta! que veux-tu faire?...</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="851">En mer! En mer! et pour l'éternité...</l>
+                  <stage><p>(À Senta.)</p></stage>
+                  <l n="852">Oui, c'en est fait de ta fidélité...</l>
+                  <l n="853">L'espoir du salut m'est ôté.</l>
+                  <l n="854">Adieu! Je veux au péril te soustraire.</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="855">Son aspect fait frémir!...</l>
+                  <l n="856">Attends! d'ici tu ne dois plus partir!...</l>
+                  <l n="857">Voile au vent!</l>
+                  <l n="858">En avant!</l>
+                  <l n="859">Et pour jamais renoncez à la terre!</l>
+                  <l n="860">Peux-tu douter d'un cœur sincère?</l>
+                  <l n="861">Tu dois encor compter sur moi!</l>
+                  <l n="862">Attends! en notre hymen espère,</l>
+                  <l n="863">Car je saurai garder ma foi!</l>
+               </sp>
+               <sp>
+                  <speaker>LE HOLLANDAIS.</speaker>
+                  <l n="864">La mer encor, la mer m'appelle,</l>
+                  <l n="865">Doutant de toi, doutant de Dieu!...</l>
+                  <l n="866">Jamais, jamais d'amour fidèle</l>
+                  <l n="867">Et tes serments ne sont qu'un jeu!...</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="868">Qu'entends-je, ô ciel! Terreur soudaine</l>
+                  <l n="869">Qu'entends-je et qu'est-ce que je vois!</l>
+                  <l n="870">Senta, ta perte est trop certaine...</l>
+                  <l n="871">Reviens! Satan est avec toi!</l>
+                  <l n="872">Apprends de quel destin je veux te garantir:</l>
+                  <l n="873">Victime, hélas! d'un sort inexorable,</l>
+                  <l n="874">La froide mort voilà mon seul désir.</l>
+                  <l n="875">Seule, de me sauver une femme est capable,</l>
+                  <l n="876">Un cœur, qui soit jusqu'au trépas constant.</l>
+                  <l n="877">Déjà j'ai reçu ton serment,</l>
+                  <l n="878">Mais tu n'as rien promis encore au tout-puissant!</l>
+                  <l n="879">Apprends quel est l'horrible châtiment</l>
+                  <l n="880">Que le destin réserve à l'infidèle:</l>
+                  <l n="881">Damnation éternelle!</l>
+                  <l n="882">Plus d'une a dû subir cette inflexible loi</l>
+                  <l n="883">Mais je veux l'écarter de toi!</l>
+                  <l n="884">Adieu! Je pars et pour l'éternité!</l>
+                  <stage><p>(Il remonte.)</p></stage>
+                  <l n="885">Suis-moi!</l>
+                  <l n="886">À l'aide! Dieu! pitié pour elle.</l>
+                  <l n="887">Je te connais, je connaissais ton sort</l>
+                  <l n="888">Je savais tout quand je t'ai vu d'abord</l>
+                  <l n="889">De tes tourments voici la fin!</l>
+                  <l n="890">Oui, ma fidélité rend ton salut certain.</l>
+               </sp>
+               <sp>
+                  <speaker>ÉRIK.</speaker>
+                  <l n="891">À l'aide! elle est perdue!</l>
+               </sp>
+            </div>
+            <div type="scene" n="2">
+               <head>SCÈNE VII</head>
+
+               <stage>Les Mêmes, DALAND, MARIE, les Jeunes Filles, les Matelots.</stage>
+               <stage><p>(Aux cris d'Érik sont accourus Daland, Marie et les Jeunes Filles, les
+                     matelots sont descendus du navire.)</p></stage>
+               <sp>
+                  <speaker>DALAND.</speaker>
+                  <l n="893">Ah! Dieu!...</l>
+               </sp>
+               <sp>
+                  <speaker>TOUS.</speaker>
+                  <l n="894">Dieu! qu'ai-je vu!</l>
+                  <l n="895">Tu ne sais rien! mon sort t'est inconnu!</l>
+                  <stage><p>(Il montre son vaisseau, dont les voiles rouges sont déployées et dont
+                        l'équipage est en train d'appareiller avec une agitation
+                     effroyable.)</p></stage>
+                  <l n="896">Demande aux flots, d'un pôle à l'autre,</l>
+                  <l n="897">Au matelot vieilli qui partout navigua,</l>
+                  <l n="898">Ils te diront quel navire est le nôtre</l>
+                  <l n="899">Car le Vaisseau Fantôme, le voilà!</l>
+                  <stage><p>LES MATELOTS HOLLANDAIS.</p></stage>
+                  <l n="900">Hohé! Hé! Hiva! Hiva!...</l>
+                  <stage><p>(Le Hollandais, avec la rapidité de l'éclair, monte sur son vaisseau qui
+                        s'éloigne à l'instant au bruit des cris de l'équipage; Senta veut suivre le
+                        Hollandais, Daland, Érik et Marie la retiennent.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>DALAND, ÉRIK,</speaker>
+                  <l n="901">Senta! reviens à toi!...</l>
+                  <stage><p>(Senta s'est dégagée par un violent effort, elle atteint une pointe de
+                        roches qui s'avance dans la mer, de là elle crie au Hollandais qui
+                        s'éloigne.)</p></stage>
+               </sp>
+               <sp>
+                  <speaker>SENTA.</speaker>
+                  <l n="902">Gloire à ton ange! Gloire à sa loi!</l>
+                  <l n="903">Jusqu'à la mort je suis à toi!...</l>
+                  <stage><p>(Elle se jette dans la mer. Au même moment le navire du Hollandais
+                        s'abîme avec son équipage au milieu des flots. Au fond on voit s'élever
+                        au-dessus de la mer le Hollandais et Senta transfigurés. Il la tient
+                        embrassée.)</p></stage>
+               </sp>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

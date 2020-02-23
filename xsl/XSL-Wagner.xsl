@@ -52,16 +52,16 @@
         <xsl:element name="div">
             <xsl:attribute name="type">act</xsl:attribute>
             <xsl:attribute name="n">
-                <xsl:number count="div[@type = 'act']" level="multiple" format="I"/>
+                <xsl:number count="div[@type = 'act']" level="multiple" format="1"/>
             </xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
     <xsl:template match="div[@type = 'scene']">
         <xsl:element name="div">
-            <xsl:attribute name="type">act</xsl:attribute>
+            <xsl:attribute name="type">scene</xsl:attribute>
             <xsl:attribute name="n">
-                <xsl:number count="div[@type = 'scene']" level="multiple" format="A"/>
+                <xsl:number count="div[@type = 'scene']" level="multiple" format="1"/>
             </xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>
@@ -71,7 +71,7 @@
             <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="sp">
+    <xsl:template match="l">
         <xsl:copy>
             <xsl:apply-templates/>
         </xsl:copy>
@@ -86,10 +86,10 @@
             <xsl:apply-templates/>
         </xsl:copy>
     </xsl:template>
-    <xsl:template match="l">
-        <xsl:element name="l">
+    <xsl:template match="sp">
+        <xsl:element name="sp">
             <xsl:attribute name="n">
-                <xsl:number count="l" level="any" format="1"/>
+                <xsl:number count="sp" level="any" format="1"/>
             </xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>

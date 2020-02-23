@@ -1,0 +1,28 @@
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" groupUrn="urn:cts:LibOp:viaf29732107"
+   urn="urn:cts:LibOp:viaf29732107.viaf181785137.TNAH2020-fre1" xml:lang="fre">
+   <ti:title xml:lang="ger">Der fliegende Holländer</ti:title>
+   <ti:title xml:lang="fre">Le Vaisseau fantôme</ti:title>
+   <ti:title xml:lang="eng">The Flying Dutchman</ti:title>
+   <ti:edition workUrn="urn:cts:LibOp:viaf29732107.viaf181785137"
+      urn="urn:cts:LibOp:viaf29732107.viaf181785137.TNAH2020-fre1">
+      <ti:label xml:lang="fre">LE VAISSEAU FANTÔME</ti:label>
+      <ti:description xml:lang="fre"> M. Valerii Martialis Epigrammaton libri / recognovit W.
+         Heraeus </ti:description>
+   </ti:edition>
+   <ti:translation workUrn="urn:cts:LibOp:viaf29732107.viaf181785137"
+      urn="urn:cts:LibOp:viaf29732107.viaf181785137.TNAH2020-fre1" xml:lang="fre">
+      <ti:label xml:lang="fre">LE VAISSEAU FANTÔME</ti:label>
+      <ti:description xml:lang="fre">Traduction française datant de 1897 par Charles Nuitter de
+         l'oeuvre de Richard Wagner datant de 1843.</ti:description>
+   </ti:translation>
+   <ti:commentary workUrn="urn:cts:LibOp:viaf29732107.viaf181785137"
+      urn="urn:cts:LibOp:viaf29732107.viaf181785137.TNAH2020-fre1" xml:lang="fre">
+      <ti:label xml:lang="fre">Introduction to the English translation of Epigrammata</ti:label>
+      <ti:description xml:lang="fre">La note de Richard Wagner, relative à la mise en scène du
+         Vaisseau fantôme, a été insérée dans le tome V de ses œuvres complètes. Cette note ne sera
+         pas inutile aux artistes qui auront à interpréter le Vaisseau fantôme, et parfois elle peut
+         rendre à l'œuvre originale quelque chose de ce que lui fait perdre forcément une traduction
+         musicale.</ti:description>
+      <ti:about urn="urn:cts:LibOp:viaf29732107.viaf181785137.TNAH2020-fre1"/>
+   </ti:commentary>
+</ti:work>

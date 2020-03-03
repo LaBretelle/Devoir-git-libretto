@@ -14,7 +14,7 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <text>
+   <text xml:base="cts:LibOp:viaf29732107.viaf181785137.TNAH2020-fre1">
       <front>
          <p> Après avoir parlé des décorations et des effets de lumière, le maître passe à ce qui
             concerne le jeu des chanteurs: Je m'adresse donc exclusivement aux acteurs, et parmi eux

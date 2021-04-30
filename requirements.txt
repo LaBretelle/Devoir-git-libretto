@@ -41,7 +41,7 @@ SecretStorage==2.3.1
 Shapely==1.6.4
 six==1.11.0
 subprocess32==3.2.7
-urllib3==1.25.7
+urllib3==1.25.8
 webencodings==0.5
 wxPython==3.0.2.0
 wxPython-common==3.0.2.0
